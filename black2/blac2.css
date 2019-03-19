@@ -1,0 +1,202 @@
+.header .menu ul li{
+    display: inline-block;
+    padding: 15px;
+    color: white;
+}
+.header .menu{
+    float:right;
+}
+.header{
+    padding: 15px 70px;
+    position:fixed;
+    left: 0;
+    top:0;
+    right: 0;
+    color: black;
+    z-index:200;
+    background: white;
+  
+}
+.header a{
+    color:black;
+}
+.header a:hover{
+    color:orange
+}
+.clear{
+    clear: both;
+}
+.sekil {
+    min-height: 30rem;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background: linear-gradient(to bottom,rgba(92,77,66,.8) 0,rgba(92,77,66,.8) 100%),url(https://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg);
+ }
+ .sekil h1{
+     color: white;
+     font-size: 3.50rem;
+     text-align: center;
+     margin-top: 150px;
+ }
+ .sekil h2{
+     text-align: center;
+     font-size:1.25rem;
+     color: #f24516;
+ }
+ .sekil p{
+     color: white;
+     font-size: 20px;
+     text-align: center;
+     padding-top: 45px;
+ }
+ .sekil .findout a{
+    background: #f24516;
+    color: #fff;
+    line-height: 80px;
+    padding: 20px 30px;
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 580px;
+    text-decoration: none;
+    border-radius: 90px;
+}
+.ikinci{
+    background: #f4623a;
+    height: 450px;
+}
+.ikinci h2{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding: 60px 0;
+} 
+.ikinci h3{
+    color:white;
+    text-align: center;
+}
+.ikinci p{
+    font-size: 20px;
+    text-align: center;
+    padding: 60px 235px;
+    color: rgba(255,255,255,.5)
+}
+.ikinci .duyme2{
+    background: #fff;
+    color: #f4623a;  
+    line-height: 30px;
+    padding: 20px 30px;
+    font-weight: 600;
+    font-size: 17px;
+    margin-left: 580px;
+    text-decoration: none;
+    border-radius: 90px;
+    width: 7%;
+}
+.duyme2 a{
+    color: black;
+}
+
+.servicesbox .icons{
+    background-color:white;
+    padding: 50px;
+    border-radius: 100px;
+    width: 12%;
+    text-align: center;
+    margin: auto;
+    color: #f24516;
+}
+.ucuncu .yazi3 h3{
+text-align: center;
+padding: 60px 0;
+color:black;
+font-size: 35px;
+}
+.ucuncu h2{
+    text-align: center;
+    color: #f24516;
+}
+.servicesbox p{
+    padding: 10px;
+    color: rgba(56, 46, 46, 0.5);
+    padding-left: 15px;
+     text-align: center;
+}
+.servicesbox h4{
+    padding: 10px;
+    padding-left: 15px;
+     text-align: center;
+}
+.duyme5 a{
+    color: black;
+}
+.bes{
+    background-color: #343a40;
+    height: 300px;
+}
+.bes h3{
+    font-size: 35px;
+    color: white;
+    padding: 100px 375px;
+}
+.bes .duyme5{
+    background: #fff;
+    color: black;  
+    line-height: 29px;
+    padding: 16px 7px;
+    font-weight: 600;
+    font-size: 21px;
+    margin-left: 555px;
+    text-decoration: none;
+    border-radius: 35px;
+    width: 14%;
+    text-align: center;
+    margin-top: -50px
+}
+.clear{
+    clear: both;
+}
+.alti h2{
+    font-size: 39px;
+    color: black;
+    padding: 60px 480px;
+}
+.alti p{
+    font-size: 20px;
+    padding: 0 364px;
+}
+.alti .son p{
+    font-size: 19px;
+    color:black;
+    padding: 24px 230px;
+}
+.son .sonlink{
+    font-size: 19px;
+    padding-top:20px;
+}
+.son .sonlink a{
+    color:#f24516;
+}
+.alti h3{
+    text-align: center;
+    color:#f24516;
+    margin-bottom: 40px
+}
+.son .sonicon{
+    padding: 50px;
+    border-radius: 100px;
+    width: 170%;
+    text-align: center;
+    margin: auto;
+    color: #6c757d
+   
+}
+.noqte{
+    text-align: center;
+    color:#6c757d;
+    font-size:15px;
+}
+

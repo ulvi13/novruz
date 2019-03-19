@@ -1,0 +1,39 @@
+.sekil{
+    margin: 15px 0;
+
+}
+.tund i{
+    color:#ff7200;
+}
+
+.tund i:nth-child(6){
+    color:grey;
+}
+.tund i:nth-child(7){
+    color:grey;
+}
+.ikon a{
+    color:white;
+}
+.ikon i{
+    position: relative;
+}
+.ikon{
+    background:#ce9852;
+    padding:30px 30px;
+}
+.ikon:hover{
+    background: #ff7200;
+}
+.ikon:hover i{
+    animation: anima .5s infinite;
+    background: #ff7200;
+}
+@keyframes anima{
+    0%{
+        left:0px;
+    }
+  100%{
+    left:20px;
+  }  
+}

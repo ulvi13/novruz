@@ -1,0 +1,229 @@
+.ilkStyle{
+background: url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+min-height: 30rem;
+background-repeat:no-repeat;
+background-size:cover;
+padding-top:8rem;
+text-align: center;
+
+}
+.ilkStyle h1{
+    font-size:80px;
+    padding-top:120px;
+    padding-bottom:10px;
+    
+}
+.link{
+    margin-top: 20px;
+    padding-top:60px;
+}
+.link a{
+padding:20px 35px;
+background: #1d809f;
+border-radius:5px;
+color:white;
+}
+.link a:hover{
+    background: #007bff;
+}
+.orta{
+    text-align:center;
+  padding: 100px 0;
+}
+.orta h1{
+    font-size:30px;
+    padding-top:20px;
+    padding-bottom:10px;
+}
+.link2{
+    margin-top: 20px;
+    padding-top:60px;
+}
+.link2 a{
+    padding:20px 35px;
+    background: #212529;
+    border-radius:5px;
+    color:white;
+}
+.third{
+    background: #1d809f;
+    padding-top:150px;
+    text-align: center;
+}
+.third h3{
+    color:#ecb807;
+}
+.third h1{
+    font-size: 50px;
+    color:white;
+}
+.services-box .icons{
+    background:white;
+    padding:30px;
+    border-radius:80px;
+    width:13%;
+    text-align: center;
+    margin:0 auto;
+    
+    
+}
+.services{
+    background:#1d809f;
+    height:300px;
+    padding-top: 50px;
+}
+.services-box h4{
+    padding-top: 10px;
+    color: white;
+}
+.services-box p{
+    padding-top:10px;
+    color: white;
+}
+.portbox{
+    height:383px;
+position: relative;
+}
+.portbox .div{
+   left: 40px;
+    bottom:60px;
+position: absolute;
+color: #fff;
+font-size:15px
+}
+.portbox:hover .div{
+    display: block;
+}
+.fourth .div:hover{
+    display:block;
+}
+.portbox:hover{
+    animation: kicilme 1s infinite;
+}
+@keyframes kicilme {
+    0% {
+        transform:scale(1);
+    }
+    100% {
+        transform:scale(0.8);
+    }
+}
+.services-box i{
+    color: #1d809f
+}
+.five{
+    background:url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    text-align: center;
+    min-height: 30rem;
+    padding-top:20rem;
+    background-size:cover;
+}
+.five h1{
+    font-size:50px;
+    padding-top:120px;
+    padding-bottom:10px;
+}
+.fivel{
+    padding-top:60px;
+}
+.fivel a{
+    padding:20px 35px;
+background: #1d809f;
+border-radius:5px;
+color:white;
+}
+.fivel a:hover{
+    background:#007bff;
+}
+.fourthl{
+    text-align: center;
+    padding-top:120px;
+}
+.fourthl h2{
+    color:#ecb807;
+}
+.fourthl h1{
+    padding-top:10px;
+    font-size:45px;
+    color:#212529;
+}
+.fourth{
+    padding-top:60px;
+    
+}
+.fiveth{
+    padding-top: 120px;
+    background: #1d809f;
+    margin-top: 120px;
+    text-align:center;
+    height: 200px;
+
+}
+.fiveth h1{
+
+
+color: #fff;
+font-size:28px;
+}
+.href1{
+    
+    color: #1d809f;
+    background-color: #f8f9fa;
+    border-color: grey;
+    padding:25px 35px;
+    border-radius:5px;
+}
+.href1:hover{
+    background:#fff;
+}
+.href2{
+    color: white;
+    background-color:#343a40;;
+    border-color:black;
+    padding:25px;
+    border-radius:5px;
+}
+.href2:hover{
+    background:#212529;
+}
+.hrefler{
+    padding-top: 60px;
+    
+}
+.ikonlar .ikon{
+    background:#1d809f;
+    padding:30px;
+    border-radius:80px;
+    width:13%;
+    text-align: center;
+    margin:0 auto;
+    
+}
+.ikon{
+    color:white;
+    flex-basis:40px;
+    
+    text-align: center;
+    background:#1d809f;
+    padding:25px;
+    margin:5px;
+    border-radius:50%;
+    
+}
+.son{
+  display: flex;
+padding-top:60px;
+  justify-content: center;
+}
+
+.noqte{
+   
+    
+    padding-top:40px;
+}
+.noqte p{
+    color:grey;
+    font-size:12px;
+    margin-left:604px;
+    
+}
